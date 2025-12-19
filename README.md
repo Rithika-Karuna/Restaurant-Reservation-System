@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This project is a **Restaurant Reservation System** developed in **Java**
-using **NetBeans IDE**.  
+using **Apache NetBeans IDE**.  
 The system allows users to make, view, and manage table reservations,
 helping restaurants organize bookings efficiently and reduce manual effort.
 
